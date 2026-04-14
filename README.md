@@ -25,6 +25,8 @@ Status
 🚧 Projeto em desenvolvimento — ainda não está pronto para execução.
 
 
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
