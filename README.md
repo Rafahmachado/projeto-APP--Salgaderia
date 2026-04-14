@@ -1,6 +1,28 @@
-# deisy_salgados
 
-A new Flutter project.
+
+# DEISY_SALGADOS
+
+Aplicativo desenvolvido em **Flutter** para a disciplina de **Dispositivos Móveis**.  
+A ideia surgiu da necessidade da empreendedora **Deisi**, que vende seus salgados de forma tradicional e buscava uma forma de **automatizar e organizar melhor suas vendas**.
+
+## Objetivo
+- Facilitar o cadastro e gerenciamento de produtos (salgados).  
+- Permitir que clientes façam pedidos de forma prática.  
+- Apoiar pequenos negócios na transição para o ambiente digital.  
+
+## Tecnologias
+- Flutter / Dart  
+- Banco de dados local (em avaliação: SQLite ou outro)  
+
+## Como executar
+1. Clone este repositório.  
+2. Instale as dependências com `flutter pub get`.  
+3. Execute com `flutter run`.  
+
+---
+
+
+
 
 ## Getting Started
 
