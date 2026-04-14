@@ -66,7 +66,7 @@ class _CadastroPageState extends State<CadastroPage> {
               ),
             ),
             
-            // Formulário estilizado
+            // Formulário 
             Container(
               padding: const EdgeInsets.symmetric(horizontal: 30, vertical: 40),
               decoration: const BoxDecoration(
@@ -130,7 +130,7 @@ class _CadastroPageState extends State<CadastroPage> {
     );
   }
 
-  // Widget de apoio para os campos
+  // Widget para os campos
   Widget _campo({
     required String label,
     required IconData icon,
