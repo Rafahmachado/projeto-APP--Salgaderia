@@ -21,27 +21,8 @@ A ideia surgiu da necessidade da empreendedora **Deisi**, que vende seus salgado
 
 ---
 
-
-# DEISY_SALGADOS
-
-Aplicativo em **Flutter** para a disciplina de **Dispositivos Móveis**.  
-Inspirado na necessidade da empreendedora **Deisi**, que vende seus salgados de forma tradicional e busca uma forma de **automatizar e organizar melhor suas vendas**.
-
-## Status
-🚧 Projeto em desenvolvimento — ainda não está pronto para execução.  
-
-## Objetivos
-- Cadastro e gerenciamento de produtos.  
-- Registro de pedidos e carrinho de compras.  
-- Apoiar pequenos negócios na transição para o digital.  
-
-## Tecnologias
-- Flutter / Dart  
-- Banco de dados local (em avaliação)  
-
----
-
-Projeto acadêmico desenvolvido por **Rafaela Machado**.
+Status
+🚧 Projeto em desenvolvimento — ainda não está pronto para execução.
 
 
 ## Getting Started
